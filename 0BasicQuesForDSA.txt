@@ -1,0 +1,90 @@
+------------------Q.What is the DS(data structure)?------
+
+ANS: Way to organsing the data with efficiently.
+
+  example:-  [8,2,4,5,1,0,3,7,6]  --> [0,1,2,3,4,5,6,7,8]
+  
+
+-------------------Q.What is A(Algorithm)?-----------
+ ANS: Steps or a Process to arrange data.
+  example:-  [8,2,4,5,1,0,3,7,6]  --> [0,1,2,3,4,5,6,7,8]
+  
+  https://media.geeksforgeeks.org/wp-content/cdn-uploads/20230726161506/Data-structure-algorithm-%E2%80%93-1-3.png
+  
+  
+  
+---------------Q.Types Of DS----------------
+           DS
+		   
+		   A.Primitive DS:-  (Integer, float , char, pointer)
+		   
+		   B.Non Primitive DS:-
+		      1.Arrays (static DS)
+			  
+			  2.Lists
+			         a)Linear lists (Dynamic DS):-If we can do any operation either start from first or last that is called linear lists.
+				        (i)Stacks   (ii)Queues  (iii)Linked Lists
+					
+			         b)Non Linear lists:-If we can do any operation from anywhere that is called non linear lists.
+				        (i)Graphs    (ii)Trees
+					 
+			  3.Files		 
+			  
+------------------Q. Operations of DS---------------------------
+
+ 1.Tranversal
+ 2.Insertion 
+ 3.Deletion 
+ 4.Searching 
+ 5.Sorting 
+ 6.Merging
+
+  1.Array 
+  2.Stack 
+  3.Queue 
+  4.Tree ,Binary trees, Binary indexes tree, Binary search trees , Segment trees
+  5.Graph 
+  6.Map , Ordered Map,
+  7.Set
+  8.Linked Lists
+  9.Matrix Grid
+  10.Hash , Hash table
+  11.Tries
+  12.Heap
+
+  Algorithm
+   1.Tranversal
+   2.Insertion 
+   3.Deletion 
+   4.Searching 
+   5.Sorting 
+   6.Merging
+   7.Recursion
+   8.Pattern Searching
+   9.Divide & Conquer
+   10.Bitwise
+   11.Greedy
+   12.Backtracking
+   13.Mathematical
+   14.Dynamic Programming(DP)
+   15.Sliding Window technique
+   16.Brute and Force technique(o(n*n))
+
+
+
+Note :- For this operation, we can use different algorithm	
+
+https://media.geeksforgeeks.org/wp-content/cdn-uploads/20230726161506/Data-structure-algorithm-%E2%80%93-1-3.png
+
+
+-------------------Q. Rules while solving question---------------------------	
+1.Consistency should be there.
+2.contest in every week
+3.use hint , video solution and discussion
+4.take question randomly after solved some questions.
+5.Time and complexity questions need to solved
+6. need to leedcode profile link to git.
+7.Use Timer for solve in leetcode itself.
+8.w make list after solve into revision , todo, folder.
+
+9.how to check our solution in leetcode which are solved by us
